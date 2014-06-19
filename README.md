@@ -1,5 +1,6 @@
 创建label
 
+<pre>
 
 func  createLabel(w:Int,h:Int)->UILabel{
         var label = UILabel()
@@ -12,3 +13,5 @@ func  createLabel(w:Int,h:Int)->UILabel{
         label.textAlignment=NSTextAlignment.Center
         return label
     }
+
+</pre>
